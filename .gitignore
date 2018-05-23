@@ -1,4 +1,5 @@
-DS_STORE
-Chapter1,2/DS_STORE
-Chapter1,2/.idea/*
-Chapter1,2/target/*
+.DS_STORE
+Lecture1_2/.DS_STORE
+Lecture1_2/.idea/*
+Lecture1_2/target/*
+*.class
